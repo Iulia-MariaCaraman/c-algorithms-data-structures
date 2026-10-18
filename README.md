@@ -18,6 +18,3 @@ This repository contains reference implementations of fundamental computer scien
 * grafexamen.c: Practical exam implementation of greedy selection.
 * FileName.c: Graph representation, matrix loading, BFS, DFS, and connectivity checks.
 
-## How to Compile and Run
-gcc DET.c -o divide_conquer
-./divide_conquer
