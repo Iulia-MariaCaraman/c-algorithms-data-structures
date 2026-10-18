@@ -16,5 +16,5 @@ This repository contains reference implementations of fundamental computer scien
 * bkt.c: Backtracking permutations and constraint validation.
 * greedy.c: Greedy subset optimization algorithm.
 * grafexamen.c: Practical exam implementation of greedy selection.
-* FileName.c: Graph representation, matrix loading, BFS, DFS, and connectivity checks.
+* BFSDFS.c: Graph representation, matrix loading, BFS, DFS, and connectivity checks.
 
